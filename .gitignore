@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# UPBGE export files
+2.*/
+*.dll 
+*.exe
+*.app
+*.blend1
+*.blend~
+*.blend~1
