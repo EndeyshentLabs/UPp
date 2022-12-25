@@ -136,3 +136,6 @@ dmypy.json
 *.blend1
 *.blend~
 *.blend~1
+
+# Old UPp files
+Platformer1*
